@@ -1,16 +1,21 @@
-## Hi there 👋
+Markdown
+# Hello there 👋, I'm Circle (C1RclE)
 
-<!--
-**wzy999999097-commits/wzy999999097-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=wzy999999097-commits&label=Profile%20views&color=0e75b6&style=flat" alt="wzy999999097-commits" />
+</p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **[AI Skills](https://github.com/wzy999999097-commits/openclaw)**.
+- 🎓 I’m a student of **Public Administration (PA)**, exploring the intersection of policy and AI.
+- 💬 Ask me about **International Relations，Digital Twin Governance or AI Principles**.
+- 📫 How to reach me: wzy999999097@gmail.com.
+- 🏠 Know more at my repository，thank U！
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/08dab4c9-1506-4706-825d-9eb9ba66008b" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🐍 My Contributions
+![snake github contribution grid snake animation](https://raw.githubusercontent.com/wzy999999097-commits/wzy999999097-commits/output/github-contribution-grid-snake.svg)
+
+![Circle's Stats](https://github-readme-stats.vercel.app/api?username=wzy999999097-commits&show_icons=true&theme=dark)
