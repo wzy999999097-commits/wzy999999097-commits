@@ -1,4 +1,3 @@
-Markdown
 # Hello there 👋, I'm Circle (C1RclE)
 
 <p align="left">
@@ -17,5 +16,3 @@ Markdown
 
 ### 🐍 My Contributions
 ![snake github contribution grid snake animation](https://raw.githubusercontent.com/wzy999999097-commits/wzy999999097-commits/output/github-contribution-grid-snake.svg)
-
-![Circle's Stats](https://github-readme-stats.vercel.app/api?username=wzy999999097-commits&show_icons=true&theme=dark)
