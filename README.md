@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Circle (C1RclE)！
+# Hello there 👋, I'm Circle (C1RclE)
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=wzy999999097-commits&label=Profile%20views&color=0e75b6&style=flat" alt="wzy999999097-commits" />
